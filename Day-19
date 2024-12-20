@@ -1,8 +1,15 @@
 Day 19: I merely noticed that you’re improperly stored, my dear secret!
 
-ANSWER 1: THM{one_tough_password}
+1. What is the OTP flag?
 
-ANSWER 2: THM{credit_card_undeclined}
+THM{one_tough_password}
 
-ANSWER 3: THM{dont_smash_your_keyboard}
+2. What is the billionaire item flag?
+
+THM{credit_card_undeclined}
+
+3. What is the biometric flag?
+
+THM{dont_smash_your_keyboard}
+
 
